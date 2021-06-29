@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>PowerForm.ui.qml</file>
+        <file>images/vent_on.png</file>
+        <file>images/vent_off_1.png</file>
+        <file>images/power_on.png</file>
+        <file>images/power_off.png</file>
+        <file>images/heater_on.png</file>
+        <file>images/heater_off.png</file>
+        <file>images/glare_on.png</file>
+        <file>images/glare_off.png</file>
+        <file>images/feet_on.png</file>
+        <file>images/feet_off.png</file>
+        <file>images/fan_on.png</file>
+        <file>images/fan_off.png</file>
+        <file>images/chiller_on.png</file>
+        <file>images/chiller_off.png</file>
+        <file>ChillerForm.ui.qml</file>
+        <file>FanForm.ui.qml</file>
+        <file>FeetForm.ui.qml</file>
+        <file>HeatForm.ui.qml</file>
+        <file>GlareForm.ui.qml</file>
+        <file>VentForm.ui.qml</file>
+        <file>Counter.qml</file>
+        <file>IconCursor.qml</file>
+        <file>FanSlider.qml</file>
+    </qresource>
+</RCC>
